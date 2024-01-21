@@ -7,9 +7,11 @@ Currently, this has CSVs for RANK and Articles. RANK is where on the feed the ar
 
 - Note: as of 01/20/2024 cloud development has not started for the backend.
 
-![Alt text](https://github.com/ethanjones-git/api_polypinion/blob/master/Screen%20Shot%202024-01-20%20at%2010.42.08%20PM.png?raw=true)
+![Alt text](https://github.com/ethanjones-git/api_polypinion/blob/master/backend_arch.png?raw=true)
 
 ## Installation
 
 dependencies should be in the requirements.txt file.
+
+
 
